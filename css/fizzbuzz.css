@@ -1,0 +1,18 @@
+html, body, section {
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline;
+	font-size: 100%;
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+.section h1, .section p {
+	font-family: 'Roboto', monospace;
+	font-size: 5rem;
+}
+
+.loop ul {
+	list-style: none;
+}
