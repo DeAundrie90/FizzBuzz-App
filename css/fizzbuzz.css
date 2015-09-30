@@ -3,7 +3,6 @@ html, body, section {
 	padding: 0;
 	vertical-align: baseline;
 	font-size: 100%;
-	text-align: center;
 	background-color: black;
 	color: white;
 }
@@ -11,6 +10,10 @@ html, body, section {
 .section h1, .section p {
 	font-family: 'Roboto', monospace;
 	font-size: 5rem;
+}
+
+header, .loop h3 {
+	text-align: center;
 }
 
 .loop ul {
